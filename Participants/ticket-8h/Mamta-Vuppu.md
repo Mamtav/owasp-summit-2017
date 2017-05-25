@@ -2,15 +2,15 @@
 layout          : blocks/page-participant
 title           : Mamta Vuppu
 type            : participant
-job-title       :
+job-title       : Student
 company         :
-travel-from     : India
-image           :
-linkedin        :
+travel-from     : Germany
+image           : 
+linkedin        : https://www.linkedin.com/in/mamta-naidu-a085255/
 twiter          :
-facebook        :
-website         :
-email           :
+facebook        : https://www.facebook.com/mamta.naidu.3
+website         : https://mamtanaidu.com
+email           : mamtanaidu@gmail.com
 project-leader  :
 chapter-leader  :
 ticket          : 5x8h
